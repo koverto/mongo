@@ -1,6 +1,7 @@
 # Koverto - Mongo
 
 [![Go](https://github.com/koverto/mongo/workflows/Go/badge.svg)][workflow]
+[![Go Report Card](https://goreportcard.com/badge/github.com/koverto/mongo)](https://goreportcard.com/report/github.com/koverto/mongo)
 
 Simplified wrapper for the official MongoDB client library.
 
